@@ -1,0 +1,10 @@
+d028230da0b6434c3da43759f8e9241d *DESCRIPTION
+958957f44f417097825bbc23bb02f24f *NAMESPACE
+fbfa5e3099c667c297adf4f645eb95b9 *R/tsSelect.r
+36d0acf98df2849c6a8ac5e49b4bd114 *README.md
+6806ec6d9f483c2487de48603d7c608e *data/ros1_ts.rda
+feacc2c35ea07f37c1e603e56f9b9524 *data/ros2_ts.rda
+699401bca824c31b84b31d99cca8084d *man/check_object.Rd
+b15c0e2289f31131745589191897cff5 *man/ros1_ts.Rd
+c1a6e3b61049bd07a78c7a420db78585 *man/ros2_ts.Rd
+ca1c0bf5e42a5916a4fa61e46d9e9232 *man/run_models.Rd
